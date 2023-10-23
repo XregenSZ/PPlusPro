@@ -1,0 +1,28 @@
+table{
+    border-collapse: collapse;
+    width: 75%;
+    background: #fff;
+}
+
+table{
+    border-collapse: collapse;
+    width: 100%;
+    background: #fff;
+}
+table th{
+    color: black;
+    padding: 10px;
+}
+table td{
+    color: black;
+    font-size: 18px;
+    padding: 10px;
+    text-align: center
+    ;
+}
+
+.order-item{
+    border-top: 1px solid #000;
+    border-bottom: 1px solid #000;
+    
+}
